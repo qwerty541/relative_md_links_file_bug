@@ -20,8 +20,8 @@ This [relative link](src/vercel.json) should open the `verel.json` file in the `
 
 ## Relative link to file
 
-This [relative link](translations.js) should open the `vercel.json` file.
+This [relative link](translations.js) should open the `translations.js` file.
 
 ## Relative link to file in folder
 
-This [relative link](src/translations.js) should open the `verel.json` file in the `src` folder.
+This [relative link](src/translations.js) should open the `translations.js` file in the `src` folder.
