@@ -9,3 +9,11 @@ This [relative link](json_test.json) should open the `json_test.json` file.
 ## Relative link to file in folder
 
 This [relative link](src/json_test.json) should open the `json_test.json` file in the `src` folder.
+
+## Relative link to file
+
+This [relative link](vercel.json) should open the `vercel.json` file.
+
+## Relative link to file in folder
+
+This [relative link](src/vercel.json) should open the `verel.json` file in the `src` folder.
